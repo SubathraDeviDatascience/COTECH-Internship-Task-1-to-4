@@ -30,3 +30,35 @@ The dataset used in this project consists of customer reviews with corresponding
 ![image](https://github.com/user-attachments/assets/c8101ca3-3136-4b39-b8a5-42e399ddb651)
 ### Conculsion
   This project demonstrates the effective use of TF-IDF vectorization and logistic regression for sentiment analysis on customer reviews, achieving high accuracy. The approach provides a versatile solution for various text classification tasks.
+
+## Task3 - Image Classification Model
+### Overview
+  This repository demonstrates the implementation of an image classification model using a Convolutional Neural Network (CNN) with TensorFlow. The model is trained on the CIFAR-10 dataset to classify images into 10 different categories.
+### Dataset
+The CIFAR-10 dataset is used for this project. It consists of 60,000 32x32 color images in 10 different classes, with 6,000 images per class. The dataset is split into 50,000 training images and 10,000 test images.
+
+Classes in CIFAR-10:
+
+ - Airplane
+ - Automobile
+ - Bird
+ - Cat
+ - Deer
+ - Dog
+ - Frog
+ - Horse
+ - Ship
+ - Truck
+
+The dataset is preloaded in TensorFlow, making it easy to use for training and evaluation.
+### Output
+![image](https://github.com/user-attachments/assets/62f23051-544a-4a96-813a-634dfb1ffd6f)
+
+![image](https://github.com/user-attachments/assets/3904b9e4-0310-4df0-b27e-512215ffae45)
+
+![image](https://github.com/user-attachments/assets/b0c699a6-7931-4180-a232-989fbb6d110b)
+
+![image](https://github.com/user-attachments/assets/964324bc-c66c-4b11-8f7a-fc3ba5c0cad7)
+
+### Conclusion
+The project showcases the successful use of CNNs for image classification, achieving high accuracy on the CIFAR-10 dataset. This approach can be adapted for other image classification tasks with similar success.
