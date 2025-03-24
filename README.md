@@ -1,4 +1,4 @@
-# COTECH-Internship-Task-1-to-4
+# COTECH-Internship-Task-1-to-3
 ## Task1 - Decision Tree Implementation
 ### Overview
   The decision tree model is trained to classify iris flowers into three species based on their sepal length, sepal width, petal length, and petal width. The repository includes code for data loading, preprocessing, model training, evaluation, and visualization.
